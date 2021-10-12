@@ -1,0 +1,23 @@
+#top {
+    font-family: cursive;
+    font-size: xx-large;
+    color: blanchedalmond;
+    background-color:black;
+    text-indent: 50px;
+}
+#middle {
+    font-family: cursive;
+    font-size: x-large;
+    color: cornsilk;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+}
+#bottom{
+    font-family: cursive;
+    text-decoration: underline;
+    background-color: cadetblue;
+    color: black;
+    text-align:right;
+    padding-right: 50px;
+}
